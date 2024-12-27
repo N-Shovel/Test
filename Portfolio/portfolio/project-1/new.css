@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #131313;
+}
+.nani {
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+.nani #image1 {
+    padding-left: 70px;  
+    height: 85px;
+}
+.nani #pages #Service {
+    font-size: 20px;
+    padding: 10px 10px  ;
+    cursor: pointer;
+    background-color: #333;
+    border: none;
+    color: white;
+}
+.nani #pages #Home {
+    font-size: 20px;
+    padding: 10px 10px  ;
+    cursor: pointer;
+    background-color: #333;
+    border: none;
+    color: white;
+}
+.nani #pages #Contact {
+    font-size: 20px;
+    padding: 10px 10px  ;
+    cursor: pointer;
+    background-color: #333;
+    border: none;
+    color: white;
+}
+.nani #pages #About {
+    font-size: 20px;
+    padding: 10px 10px  ;
+    cursor: pointer;
+    background-color: #333;
+    border: none;
+    color: white;
+}
+.nani #pages #Service:hover {
+    background-color: rgb(223, 205, 205);
+    padding: 10px;
+    color: black;
+    border-radius: 25px;
+    border: 1px solid white;
+}
+.nani #pages #Home:hover {
+    background-color: rgb(223, 205, 205);
+    padding: 10px;
+    color: black;
+    border-radius: 25px;
+    border: 1px solid white;
+}
+.nani #pages #Contact:hover {
+    background-color: rgb(223, 205, 205);
+    padding: 10px;
+    color: black;
+    border-radius: 25px;
+    border: 1px solid white;
+}
+.nani #pages #About:hover {
+    background-color: rgb(223, 205, 205);
+    padding: 10px;
+    color: black;
+    border-radius: 25px;
+    border: 1px solid white;
+}
+.nani #login {
+    font-size: 20px;
+    margin-right: 40px;
+    border: 1px solid white;
+    border-radius: 25px;
+    cursor: pointer;
+    background-color: #333;
+    color: white;
+    padding: 5px 30px;
+}
+.nani #login:hover {
+    background-color: rgb(223, 205, 205);
+    padding: 5px 30px;
+    color: black;
+    border-radius: 25px;
+    border: 1px solid white;
+}
+.bodi{
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-right: 200px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.bodi #image2 {
+    float: right;
+    height: 100%;
+    padding-right: 20px;
+    padding-bottom: 0px ;
+}
+.bodi #tasty {
+    cursor: pointer;
+    font-size: 20px;
+    background-color: #131313;
+    color: white;
+    border: 2px solid red;
+    border-radius: 30px;
+    padding: 0px 0px;
+    width: 200px;
+    height: 50px;
+}
+.bodi #tasty:hover {
+    background-color: #333;
+    color: grey;
+}
+.bodi #slogan {
+    font-size: 40px;
+    color: white;
+}
+.bodi span {
+    color: red;
+}
+.bodi p {
+    font-size: 20px;
+    color: white;
+}
+.m-btn {
+    padding-top: 10px;
+    margin-left: 200px;
+}
+.m-btn #order {
+    font-size: 20px;
+    width: 150px;
+    height: 35px;
+    border-radius: 25px;
+    background-color: red;
+    color: white;
+}
+.m-btn #order:hover {
+    background-color: rgb(99, 0, 0);
+}
+.m-btn #seemore {
+    font-size: 20px;
+    width: 150px;
+    height: 35px;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+}
+.m-btn #seemore:hover {
+    background-color: rgb(45, 35, 35);
+}
+#table {
+    font-size: 20px;
+    margin-left: 200px;
+    padding-top: 30px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+#table .number {
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    height: 100px;
+    width: 200px;
+    background-color: #333;
+    border: none;
+    border-radius: 25px;
+}
